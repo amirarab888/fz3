@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1580750097 source:d:\amirhossen\faze3server\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<time.h>
+
